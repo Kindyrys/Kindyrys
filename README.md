@@ -39,7 +39,6 @@ I am currently focused on Java Backend Development and building practical projec
 - JUnit
 - IntelliJ IDEA
 - Jira
-- Odoo
 - ITIL 4
 - Business Process Improvement
 - Technical Operations
